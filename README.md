@@ -4,7 +4,7 @@ This project is **based on the original OpenBRF source code**. The goal of this 
 
 ##  Enhancements
 
-###  Search Bar
+###  -Search Bar
 A resource search bar has been added to make large BRF files easier to navigate.
 
 - Quickly search resources by name.
@@ -12,18 +12,18 @@ A resource search bar has been added to make large BRF files easier to navigate.
 - Press `Enter` to move to the next matching result.
 - Useful when working with large collections of meshes, materials, textures, and animations.
 
-###  Bulk Animation Export
+###  -Bulk Animation Export
 Animations can now be exported in bulk instead of exporting them one at a time.
 
 This is particularly useful when extracting or converting large animation sets for external tools such as Blender.
 
-###  SMD Export Scale Fix
+###  -SMD Export Scale Fix
 Fixed the scale problem where exported SMD animations could be **10× larger than expected**.
 
 New SMD exports use the correct scale, making them easier to use in external 3D software and animation workflows.
 
 
-##  Credits & Attribution
+##  -Credits & Attribution
 
 OpenBRF Enhanced is based on the original **OpenBRF** project.
 
