@@ -1,0 +1,33 @@
+# Qt Creator / qmake local state
+*.pro.user
+*.pro.user.*
+.qmake.stash
+
+# Build directories and generated binaries
+_build/
+build/
+Makefile
+Makefile.*
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.exe
+*.pdb
+*.ilk
+*.log
+
+# Generated Qt files
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+
+# IDE / OS files
+.vscode/
+.idea/
+.vs/
+*.user
+*.user.*
+.DS_Store
+Thumbs.db
