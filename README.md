@@ -4,7 +4,7 @@ This project is **based on the original OpenBRF source code**. The goal of this 
 
 ##  Enhancements
 
-###  -Search Bar
+### 🔎 Search Bar
 A resource search bar has been added to make large BRF files easier to navigate.
 
 - Quickly search resources by name.
